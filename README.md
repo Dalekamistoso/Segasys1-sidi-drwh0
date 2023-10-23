@@ -1,4 +1,4 @@
-# Segasys1-sidi-drwh0
+# Sega System 1 & 2 Plus Congo Bongo and Zaxxon unofficial SiDi FPGA Cores
 
 Sidi Sega System 1+2 / Sega Zaxxon / CongoBongo hardware FPGA core by DrWh0
 
