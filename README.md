@@ -11,6 +11,6 @@ Main Mist repository:
 https://github.com/Gehstock/Mist_FPGA
 
 
-#*** AL UPDATES MOVED TO ***#
+# ALL UPDATES MOVED TO THIS REPOSITORY:#
 
 https://github.com/Dalekamistoso/drwh0-misc-arcade-sidi
